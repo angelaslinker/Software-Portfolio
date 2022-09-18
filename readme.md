@@ -4,7 +4,7 @@ This is a simple program that prints out "Hello world!". I created this simple p
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/K38FCu1OoJA)
 
 # Development Environment
 

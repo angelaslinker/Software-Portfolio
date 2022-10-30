@@ -4,7 +4,7 @@ import {Toolbar, Typography} from '@material-ui/core'
 import {makeStyles} from "@material-ui/core/styles"; 
 
 
-
+//Navigation CSS
 const styles = makeStyles({
     bar:{
         paddingTop: "1.15rem",
@@ -42,7 +42,7 @@ const styles = makeStyles({
 })
 
 
-
+//Function that creates the Navigation bar so that there can be multiple navigation tabs
 function NavBar() {
     const classes = styles()
     return (

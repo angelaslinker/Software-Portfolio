@@ -2,7 +2,7 @@ import React from 'react'
 import {Typography} from '@material-ui/core'
 import {makeStyles} from '@material-ui/core/styles'
 import CustomBtn from './btn'
-
+//css
 const styles = makeStyles({
     wrapper: {
        display: "flex",
@@ -14,7 +14,8 @@ const styles = makeStyles({
        paddingTop: "1rem"
     }
 })
-
+//Function that creates a reusable blueprint of what each item in the grid will contain
+//Uses Icon, Title, btnTitle for each item in grid
 function Grid(props) {
     const {icon, title, btnTitle} = props;
     const classes = styles(); 

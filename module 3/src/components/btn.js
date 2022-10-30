@@ -19,7 +19,7 @@ const StyledButton = withStyles({
 
   })(Button);
 
-
+//Creates button and alert when button is pressed
 
 function CustomBtn(props) {
 

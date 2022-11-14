@@ -6,8 +6,6 @@ I created a very simple shopping website where the user can interact with more t
 
 My purpose of writing this software was to use new techniques and try things I have never tried before when coding.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/2Y1VnSUhX6w)
 
 # Development Environment

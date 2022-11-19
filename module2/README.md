@@ -7,9 +7,8 @@ The purpose of this app was to create a shopping experience for users that is un
 
 My purpose of creating this app is to prepare myself for future projects whether that is personal projects, school projects or projects in a futuer workplace. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/jVyUKqiD_Po))
+[Software Demo Video]([https://youtu.be/MfyvX5DHZG8))
 
 # Development Environment
 

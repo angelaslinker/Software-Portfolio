@@ -4,7 +4,6 @@ This is a fortune-teller game written in Java that interacts with the user to pr
 This game is meant to be fun and unique for each user as they play. The purpose of writing this program was to create a
 fun game that one can interact with and there are multiple options of the direction the game can go.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/f97Zz3vBaQw)
 

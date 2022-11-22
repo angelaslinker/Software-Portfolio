@@ -1,9 +1,9 @@
 
-Software Portfolio
+#Software Portfolio
 
 A portfolio that holds different projects I have completed in the span of two weeks or less
 
-Module Guide
+#Module Guide
 
 Module One - Fortune teller game created with Java
 

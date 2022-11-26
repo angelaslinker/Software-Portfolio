@@ -1,7 +1,7 @@
 # Overview
 
 For this Module I wanted to further explore mobile app development and IOS development. 
-Swift was a entirely new concept to me at the beginning of this module, but I wanted to familiarize
+Swift was an entirely new concept to me at the beginning of this module, but I wanted to familiarize
 myself with it so that I begin making visions I have for myself come to life.
 
 This app is a simple To-Do list application. At this time the user is able to access their daily to-do list,

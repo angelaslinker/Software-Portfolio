@@ -14,15 +14,13 @@ class ListViewModel: ObservableObject{
         getItems()
     }
     
+   //creates new Array to hold the data from user input
+    
     func getItems(){
         let newItems = [
                 itemModel(title: "Click the Add button to Add a task", IsComplete: false)
             ]
-        
-//            itemModel(title: "Num Two", IsComplete: false),
-//            itemModel(title: "Num Three", IsComplete: true),
-        
-        
+           
         items.append(contentsOf: newItems)
     }
     

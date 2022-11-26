@@ -11,7 +11,7 @@ I chose to make this application because I saw lots of oppurtutnity to learn abo
 the many different things I can do in Swift. I explored buttons, lists, images and many other 
 things that didn't quite make it to the app yet. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/nDfVPDRYbBM))
 
 # Development Environment
 

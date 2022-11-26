@@ -16,6 +16,7 @@ struct listView: View {
         
         
         VStack {
+            //Day of the week, image and quote
             Text("Monday")
                 .font(.largeTitle)
                 .bold()
@@ -33,7 +34,7 @@ struct listView: View {
                     alignment: .bottom
                 )
             Spacer()
-        
+        // List of each item that user has added to their to do list
         List{
             ForEach(listViewModel.items) {item in
                 listRowView(item: item)
@@ -50,7 +51,7 @@ struct listView: View {
     }
 }
 
-
+//listView struct to show in the NavigationView
 struct ListView_Previews: PreviewProvider{
     static var previews: some View {
         NavigationView{
@@ -60,6 +61,7 @@ struct ListView_Previews: PreviewProvider{
     }
 }
 }
+
 
 
 

@@ -10,7 +10,7 @@ import SwiftUI
 struct listRowView: View {
     
     let item: itemModel
-    
+    // displays the item title (to do list item)
     var body: some View {
         HStack{
             Text(item.title)
